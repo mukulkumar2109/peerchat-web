@@ -1,5 +1,5 @@
 # peerchat-web
-This is a web-rtc based video calling web application. It uses a third party platform, agora. It is built using html, css and js.
+It is a peer to peer video calling application made using webrtc. It uses a third party signaling api(agora) to make the connection possible. It is built using html, css and js.
 It allows us to make a peer to peer connection between two users to exchange audio and video without a server once the connection is made.
 
 working
