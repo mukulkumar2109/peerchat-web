@@ -1,4 +1,4 @@
-let APP_ID = "506636514a4b442d947e32e5d1fdf225"
+let APP_ID = "paste here your own app id from agora"
 let token = null;
 let uid = String(Math.floor(Math.random() *10000))
 
